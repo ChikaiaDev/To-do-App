@@ -1,0 +1,19 @@
+{
+  "name": "tod0listapp",
+  "version": "1.0.0",
+  "description": "to do application using javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChikaiaDev/To-do-App.git"
+  },
+  "author": "chikaiadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChikaiaDev/To-do-App/issues"
+  },
+  "homepage": "https://github.com/ChikaiaDev/To-do-App#readme"
+}
